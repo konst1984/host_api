@@ -5,7 +5,8 @@
     "image":"/images/food_1.webp",
     "price":12,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Salad"
+    "category":"Salad",
+    "rating": 4
   },
   {
     "_id":"2",
@@ -13,7 +14,8 @@
     "image":"/images/food_2.webp",
     "price":18,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Salad"
+    "category":"Salad",
+    "rating": 5
   },
   {
     "_id":"3",
@@ -21,7 +23,8 @@
     "image":"/images/food_3.webp",
     "price":16,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Salad"
+    "category":"Salad",
+    "rating": 4
   },
   {
     "_id":"4",
@@ -29,7 +32,8 @@
     "image":"/images/food_4.webp",
     "price":24,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Salad"
+    "category":"Salad",
+    "rating": 5
   },
   {
     "_id":"5",
@@ -37,7 +41,8 @@
     "image":"/images/food_5.webp",
     "price":14,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Rolls"
+    "category":"Rolls",
+    "rating": 5
   },
   {
     "_id":"6",
@@ -45,7 +50,8 @@
     "image":"/images/food_6.webp",
     "price":12,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Rolls"
+    "category":"Rolls",
+    "rating": 3
   },
   {
     "_id":"7",
@@ -53,7 +59,8 @@
     "image":"/images/food_7.webp",
     "price":20,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Rolls"
+    "category":"Rolls",
+    "rating": 5
   },
   {
     "_id":"8",
@@ -61,7 +68,8 @@
     "image":"/images/food_8.webp",
     "price":15,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Rolls"
+    "category":"Rolls",
+    "rating": 4
   },
   {
     "_id":"9",
@@ -69,7 +77,8 @@
     "image":"/images/food_9.webp",
     "price":14,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Deserts"
+    "category":"Deserts",
+    "rating": 5
   },
   {
     "_id":"10",
@@ -77,7 +86,8 @@
     "image":"/images/food_10.webp",
     "price":22,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Deserts"
+    "category":"Deserts",
+    "rating": 4
   },
   {
     "_id":"11",
@@ -85,7 +95,8 @@
     "image":"/images/food_11.webp",
     "price":10,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Deserts"
+    "category":"Deserts",
+    "rating": 4
   },
   {
     "_id":"12",
@@ -93,7 +104,8 @@
     "image":"/images/food_12.webp",
     "price":12,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Deserts"
+    "category":"Deserts",
+    "rating": 5
   },
   {
     "_id":"13",
@@ -101,7 +113,8 @@
     "image":"/images/food_13.webp",
     "price":12,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Sandwich"
+    "category":"Sandwich",
+    "rating": 2
   },
   {
     "_id":"14",
@@ -109,7 +122,8 @@
     "image":"/images/food_14.webp",
     "price":18,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Sandwich"
+    "category":"Sandwich",
+    "rating": 5
   },
   {
     "_id":"15",
@@ -117,7 +131,8 @@
     "image":"/images/food_15.webp",
     "price":16,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Sandwich"
+    "category":"Sandwich",
+    "rating": 4
   },
   {
     "_id":"16",
@@ -125,7 +140,8 @@
     "image":"/images/food_16.webp",
     "price":24,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Sandwich"
+    "category":"Sandwich",
+    "rating": 5
   },
   {
     "_id":"17",
@@ -133,7 +149,8 @@
     "image":"/images/food_17.webp",
     "price":14,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Cake"
+    "category":"Cake",
+    "rating": 4
   },
   {
     "_id":"18",
@@ -141,7 +158,8 @@
     "image":"/images/food_18.webp",
     "price":12,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Cake"
+    "category":"Cake",
+    "rating": 4
   },
   {
     "_id":"19",
@@ -149,7 +167,8 @@
     "image":"/images/food_19.webp",
     "price":20,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Cake"
+    "category":"Cake",
+    "rating": 4
   },
   {
     "_id":"20",
@@ -157,7 +176,8 @@
     "image":"/images/food_20.webp",
     "price":15,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Cake"
+    "category":"Cake",
+    "rating": 3
   },
   {
     "_id":"21",
@@ -165,7 +185,8 @@
     "image":"/images/food_21.webp",
     "price":14,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Pure Veg"
+    "category":"Pure Veg",
+    "rating": 5
   },
   {
     "_id":"22",
@@ -173,7 +194,8 @@
     "image":"/images/food_22.webp",
     "price":22,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Pure Veg"
+    "category":"Pure Veg",
+    "rating": 5
   },
   {
     "_id":"23",
@@ -181,7 +203,8 @@
     "image":"/images/food_23.webp",
     "price":10,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Pure Veg"
+    "category":"Pure Veg",
+    "rating": 5
   },
   {
     "_id":"24",
@@ -189,7 +212,8 @@
     "image":"/images/food_24.webp",
     "price":12,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Pure Veg"
+    "category":"Pure Veg",
+    "rating": 4
   },
   {
     "_id":"25",
@@ -197,7 +221,8 @@
     "image":"/images/food_25.webp",
     "price":12,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Pasta"
+    "category":"Pasta",
+    "rating": 4
   },
   {
     "_id":"26",
@@ -205,7 +230,8 @@
     "image":"/images/food_26.webp",
     "price":18,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Pasta"
+    "category":"Pasta",
+    "rating": 5
   },
   {
     "_id":"27",
@@ -213,7 +239,8 @@
     "image":"/images/food_27.webp",
     "price":16,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Pasta"
+    "category":"Pasta",
+    "rating": 4
   },
   {
     "_id":"28",
@@ -221,7 +248,8 @@
     "image":"/images/food_28.webp",
     "price":24,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Pasta"
+    "category":"Pasta",
+    "rating": 4
   },
   {
     "_id":"29",
@@ -229,7 +257,8 @@
     "image":"/images/food_29.webp",
     "price":14,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Noodles"
+    "category":"Noodles",
+    "rating": 3
   },
   {
     "_id":"30",
@@ -237,7 +266,8 @@
     "image":"/images/food_30.webp",
     "price":12,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Noodles"
+    "category":"Noodles",
+    "rating": 5
   },
   {
     "_id":"31",
@@ -245,7 +275,8 @@
     "image":"/images/food_31.webp",
     "price":20,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Noodles"
+    "category":"Noodles",
+    "rating": 5
   },
   {
     "_id":"32",
@@ -253,6 +284,7 @@
     "image":"/images/food_32.webp",
     "price":15,
     "description":"Food provides essential nutrients for overall health and well-being",
-    "category":"Noodles"
+    "category":"Noodles",
+    "rating": 4
   }
 ]
